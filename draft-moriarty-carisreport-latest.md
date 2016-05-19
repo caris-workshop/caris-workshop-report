@@ -2,7 +2,7 @@
 title: Coordinating Attack Response at Internet Scale (CARIS) Workshop Report
 abbrev: CARIS
 docname: draft-moriarty-carisreport-latest
-date: 2015-10-16
+date: 2016-05-19
 category: info
 
 ipr: trust200902
